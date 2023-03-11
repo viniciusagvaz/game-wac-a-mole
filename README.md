@@ -1,4 +1,4 @@
-<h1>This is a whac-a-mole by Ania Kubów</h1>
+<h1>This is a whac-a-mole game by Ania Kubów</h1>
 
 It's the third functional game that I'll be learning for the next days to a total of seven games that will be taught at this course.
 <hr>
