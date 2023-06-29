@@ -1,7 +1,12 @@
 <h1>This is a whac-a-mole game by Ania Kubów</h1>
 
 It's the third functional game that I'll be learning for the next few days a total of seven games will be taught in this course.
-<a>https://zoomviex.github.io/game-wac-a-mole/</a>
+<a>https://viniciusagvaz.github.io/game-wac-a-mole/</a>
+<hr>
+
+![image](https://github.com/viniciusagvaz/game-wac-a-mole/assets/109700331/63b559e0-8a9d-4cc8-8f59-c5679541b4f7)
+
+
 <hr>
 <div>
 <h3>JavaScript Properties and Methods cover:</h3>
